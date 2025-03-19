@@ -59,8 +59,10 @@ RePill is a long-term medication refilling application designed for both patient
    ```
 
 8. **Run on device/emulator**
-   * Press ```bash a ``` for Android
-   * Press ```bash i ``` for iOS
+   * Press ```bash
+     a ``` for Android
+   * Press ```bash
+     i ``` for iOS
 
 ## Technology Stack
 - **Frontend:** React Native
