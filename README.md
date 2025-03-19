@@ -1,5 +1,5 @@
 # RePill - Medication Refill Application
-<img src="assets/repill-preview.gif" alt="Preview RePill App GIF" width="1200px" />
+<img src="assets/RePill.gif" alt="Preview RePill App GIF" width="1200px" />
 
 RePill is a long-term medication refilling application designed for both patients and healthcare providers.
 
