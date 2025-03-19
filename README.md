@@ -1,7 +1,6 @@
 # RePill - Medication Refill Application
 <img src="assets/repill-preview.gif" alt="Preview RePill App GIF" width="1200px" />
 
-## Application Overview:
 RePill is a long-term medication refilling application designed for both patients and healthcare providers.
 
 ### Key Features:
@@ -60,8 +59,8 @@ RePill is a long-term medication refilling application designed for both patient
    ```
 
 8. **Run on device/emulator**
-   * Press 'a' for Android
-   * Press 'i' for iOS
+   * Press ```bash a ``` for Android
+   * Press ```bash i ``` for iOS
 
 ## Technology Stack
 - **Frontend:** React Native
