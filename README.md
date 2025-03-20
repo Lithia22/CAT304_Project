@@ -5,7 +5,7 @@ RePill is a long-term medication refilling application designed for both patient
   <img src="FrontPage.png" alt="Preview of RePill Application" width="1200px" style="cursor: pointer;" />
 </a>
 
-<p>Click this link to demo the project yourself  
+<p>Click this link to watch the application preview on YouTube  
   <a href="https://lithia22.github.io/CAT201_Assignment_2/" target="_blank">RePill - React Native Application</a>
 </p>
 
