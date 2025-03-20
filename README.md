@@ -2,7 +2,7 @@
 RePill is a long-term medication refilling application designed for both patients and healthcare providers.
 
 <a>
-  <img src="FrontPage.png" alt="Preview of RePill Application" width="1200px" style="cursor: pointer;" />
+  <img src="/assets/RePill.png" alt="Preview of RePill Application" width="1200px" style="cursor: pointer;" />
 </a>
 
 <p>Click this link to watch the application preview on YouTube  
