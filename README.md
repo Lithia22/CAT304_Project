@@ -1,7 +1,11 @@
 # RePill - Medication Refill Application
-<img src="assets/RePill.gif" alt="Preview RePill App GIF" width="1200px" />
-
 RePill is a long-term medication refilling application designed for both patients and healthcare providers.
+
+<a href="https://lithia22.github.io/CPC354_Assignment_2/" target="_blank">
+  <img src="FrontPage.png" alt="Preview of Lighting and Shading Animation" width="1200px" style="cursor: pointer;" />
+</a>
+
+
 
 ### Key Features:
 - **For Patients:**
